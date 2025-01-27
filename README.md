@@ -1,21 +1,50 @@
-[<img src="https://github.com/user-attachments/assets/1e0ee201-6fd2-4d66-ab1d-af2f843e877a">](https://www.linkedin.com/in/tanhunchong/)
+# <b>Hello, world. I'm <code>**Hun Chong**</code> ! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
 
-<p>
-  
-- 🔭 I’m currently working on Frontend Development using ReactJS and UI/UX Design on Figma.
+<a href="https://www.linkedin.com/in/tanhunchong/">
+  <img align="left" width="30px" src="https://cdn.simpleicons.org/linkedin"  />
+</a>
 
-- 🌱 I’m currently learning different ML/AI technologies - Natural Language Processing (NLP), Computer Vision (CV), Stable Diffusion (SD), etc.
+<a href="mailto:hunchong_tan@mymail.sutd.edu.sg">
+  <img align="left" width="30px" src="https://cdn.simpleicons.org/gmail" />
+</a>
 
-- 👯 I’m looking to collaborate on projects that require implementation of AI.
+<img src="https://komarev.com/ghpvc/?username=hunchongtan&color=blueviolet&style=for-the-badge" alt="Profile Views">
 
-- 🤔 I’m looking for help with Backend Development.
+## ⚡ About Me
 
-- 💬 Ask me about Human Computer Interaction (HCI) & Artificial Intelligence.
+⚙️ I’m an aspiring AI Engineer purusing a BSc in Artificial Intelligence. </br>
+👨‍💻 I am passionate about learning AI/ML and love to dabble with novel AI technologies. </br>
+💬 "I learn AI to use AI more efficiently." </br>
 
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/tanhunchong/)
+<img src="https://github-readme-stats.vercel.app/api?username=hunchongtan&theme=tokyonight&show_icons=true&hide=stars,issues&rank_icon=github" alt="Github Stats" width="40%">
+</br>
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=hunchongtan&theme=tokyonight&title=-Issues,-Reviews&row=2&column=3" alt="Trophies" width="40%">
+</a>
 
-- 😄 Pronouns: He/Him
+## 🛠️ Languages and Tools
+<a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,ruby,html,css,javascript,swift,react,rails,opencv,figma&perline=5" width="30%">
+</a>
+<p></p>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hunchongtan&theme=tokyonight&layout=compact&exclude_repo=Hoverfly_SUTD" alt="Most Used Languages" width="30%">
+</br>
 
-- ⚡ Fun fact: I love Red Pandas!
-
-</p>
+## 🏆 Hall of Fame
+<table>
+  <tr>
+    <td><a href="https://github.com/Service-Design-Studio/1d-final-project-summer-2024-sds-2024-team-13"><img src="img/dbsbiz.png"/></a></td>
+    <td><a href="https://github.com/hunchongtan/Hoverfly_SUTD"><img src="img/hoverfly.png"/></a></td>
+    <td><a href="https://github.com/hunchongtan/bloom-app"><img src="img/bloom.png"/></a></td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/rappleit/Portential"><img src="img/portential.png"/></a></td>
+    <td><a href="https://github.com/hunchongtan/hive"><img src="img/hive.png"/></a></td>
+    <td><a href="https://github.com/rappleit/MediLingo"><img src="img/medilingo.png"/></a></td>
+  </tr>
+  <tr>
+    <td><a href="LINK7"><img src="img/comingsoon.jpg"/></a></td>
+    <td><a href="LINK8"><img src="img/comingsoon.jpg"/></a></td>
+    <td><a href="LINK9"><img src="img/comingsoon.jpg"/></a></td>
+  </tr>
+</table>
