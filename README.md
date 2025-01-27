@@ -43,8 +43,8 @@
     <td><a href="https://github.com/rappleit/MediLingo"><img src="img/medilingo.png"/></a></td>
   </tr>
   <tr>
-    <td><a href="LINK7"><img src="img/comingsoon.jpg"/></a></td>
-    <td><a href="LINK8"><img src="img/comingsoon.jpg"/></a></td>
-    <td><a href="LINK9"><img src="img/comingsoon.jpg"/></a></td>
+    <td><a href="LINK7"><img src="img/comingsoon.png"/></a></td>
+    <td><a href="LINK8"><img src="img/comingsoon.png"/></a></td>
+    <td><a href="LINK9"><img src="img/comingsoon.png"/></a></td>
   </tr>
 </table>
