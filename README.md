@@ -33,9 +33,9 @@
 ## 🏆 Hall of Fame
 <table>
   <tr>
+    <td><a href="https://github.com/jingkai27/jingkai27/blob/main/more-readme/SPEAKEASE-README.md"><img src="img/speakease.png"/></a></td>
     <td><a href="https://github.com/Service-Design-Studio/1d-final-project-summer-2024-sds-2024-team-13"><img src="img/dbsbiz.png"/></a></td>
     <td><a href="https://github.com/hunchongtan/Hoverfly_SUTD"><img src="img/hoverfly.png"/></a></td>
-    <td><a href="https://github.com/hunchongtan/bloom-app"><img src="img/bloom.png"/></a></td>
   </tr>
   <tr>
     <td><a href="https://github.com/rappleit/Portential"><img src="img/portential.png"/></a></td>
@@ -43,8 +43,8 @@
     <td><a href="https://github.com/rappleit/MediLingo"><img src="img/medilingo.png"/></a></td>
   </tr>
   <tr>
+    <td><a href="https://github.com/hunchongtan/bloom-app"><img src="img/bloom.png"/></a></td>
     <td><a href="https://github.com/hunchongtan/hive"><img src="img/hive.png"/></a></td>
-    <td><a href="https://github.com/hunchongtan/"><img src="img/comingsoon.png"/></a></td>
     <td><a href="https://github.com/hunchongtan/"><img src="img/comingsoon.png"/></a></td>
   </tr>
 </table>
