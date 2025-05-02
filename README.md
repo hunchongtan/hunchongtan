@@ -17,14 +17,14 @@
 💬 "I learn AI to use AI more efficiently." </br>
 
 <img src="https://github-readme-stats.vercel.app/api?username=hunchongtan&theme=tokyonight&show_icons=true&hide=stars,issues&rank_icon=github" alt="Github Stats" width="40%">
-</br>
+<!-- </br>
 <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=hunchongtan&theme=tokyonight&title=-Issues,-Reviews&row=2&column=3" alt="Trophies" width="40%">
-</a>
+</a> -->
 
 ## 🛠️ Languages and Tools
 <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,ruby,html,css,javascript,swift,react,rails,opencv,figma&perline=5" width="30%">
+    <img src="https://skillicons.dev/icons?i=py,html,css,javascript,react,azure,gcp,opencv,sklearn,pytorch&perline=5" width="30%">
 </a>
 <p></p>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hunchongtan&theme=tokyonight&layout=compact&exclude_repo=Hoverfly_SUTD" alt="Most Used Languages" width="30%">
