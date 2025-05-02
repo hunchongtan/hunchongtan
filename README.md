@@ -27,7 +27,7 @@
     <img src="https://skillicons.dev/icons?i=py,html,css,javascript,react,azure,gcp,opencv,sklearn,pytorch&perline=5" width="30%">
 </a>
 <p></p>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hunchongtan&theme=tokyonight&layout=compact&exclude_repo=Hoverfly_SUTD" alt="Most Used Languages" width="30%">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hunchongtan&theme=tokyonight&layout=compact&hide=Jupyter%20Notebook" alt="Most Used Languages" width="30%">
 </br>
 
 
