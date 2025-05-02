@@ -1,18 +1,18 @@
 # <b>Hello, world. I'm <code>**Hun Chong**</code> ! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
 
-<a href="https://www.linkedin.com/in/tanhunchong/">
-  <img align="left" width="30px" src="https://cdn.simpleicons.org/linkedin"  />
+<a href="mailto:hunchong_tan@mymail.sutd.edu.sg">
+  <img align="left" width="30px" src="https://cdn.simpleicons.org/gmail/hotpink" />
 </a>
 
-<a href="mailto:hunchong_tan@mymail.sutd.edu.sg">
-  <img align="left" width="30px" src="https://cdn.simpleicons.org/gmail" />
+<a href="https://medium.com/@hunchongtan">
+  <img align="left" width="30px" src="https://cdn.simpleicons.org/medium/hotpink" />
 </a>
 
 <img src="https://komarev.com/ghpvc/?username=hunchongtan&color=blueviolet&style=for-the-badge" alt="Profile Views">
 
 ## ⚡ About Me
 
-⚙️ I’m an aspiring AI Engineer purusing a BSc in Artificial Intelligence. </br>
+⚙️ I’m an aspiring Data Scientist purusing a BSc in Artificial Intelligence and a Minor in Computer Science. </br>
 👨‍💻 I am passionate about learning AI/ML and love to dabble with novel AI technologies. </br>
 💬 "I learn AI to use AI more efficiently." </br>
 
