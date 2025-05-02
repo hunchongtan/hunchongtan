@@ -30,28 +30,88 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hunchongtan&theme=tokyonight&layout=compact&exclude_repo=Hoverfly_SUTD" alt="Most Used Languages" width="30%">
 </br>
 
-## 🏆 Hall of Fame
-<table>
-  <tr>
-    <td><a href="https://github.com/jingkai27/jingkai27/blob/main/more-readme/SPEAKEASE-README.md"><img src="img/speakease.png"/></a></td>
-    <td><a href="https://github.com/Service-Design-Studio/1d-final-project-summer-2024-sds-2024-team-13"><img src="img/dbsbiz.png"/></a></td>
-    <td><a href="https://github.com/hunchongtan/Hoverfly_SUTD"><img src="img/hoverfly.png"/></a></td>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/rappleit/Portential"><img src="img/portential.png"/></a></td>
-    <td><a href="https://github.com/rappleit/dermacare"><img src="img/dermacare.png"/></a></td>
-    <td><a href="https://github.com/rappleit/MediLingo"><img src="img/medilingo.png"/></a></td>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/hunchongtan/bloom-app"><img src="img/bloom.png"/></a></td>
-    <td><a href="https://github.com/hunchongtan/hive"><img src="img/hive.png"/></a></td>
-    <td><a href="https://github.com/hunchongtan/"><img src="img/comingsoon.png"/></a></td>
-  </tr>
-</table>
 
-## Honourable Mentions
-1. <a href="https://github.com/zayne-siew/Stretch925">Stretch925</a>: App that utilises gamification and computer vision to promote a healthy stretching habit among corporate workers. *An undertaking of the LifeHack 2023.*
-2. <a href="https://github.com/chaaaaun/wth-23">Ah Boy</a>: Innovative speech-to-text chatbot designed to be the ultimate digital sidekick for the seniors in Singapore - Supports Hokkien dialect! *An undertaking of What The Heck 2023.*
-3. <a href="https://github.com/xpxchxcx/AquaGuardian">Aqua Guardians</a>: A cost-effective solution aimed to combat unlawful water pollution, especially in less developed countries. *An undertaking of the 2023 Google Solution Challenge.*
-4. <a href="https://github.com/hunchongtan/MyToDoList">My To Do List</a>: A To Do List for dementia patients. *An undertaking of 10.014 Computational Thinking and Design (10.014).*
-5. <a href="https://github.com/hunchongtan/Simple_Arduino_SwitchBot">Simple Arduino Switchbot</a>: A DIY SwitchBot with ESP32 Wi-Fi Module & intergated with Google Firebase. *An undertaking of a side project in 60.003 Product Design Studio.*
+## ⚙️ Projects
+
+### 🏦 Industry Collaborations
+#### 1. DBSBiz  
+Ultimate Everyday Hawker E-payment App designed to help with hawkers' end-to-end operations.  
+💡 [Link](https://github.com/Service-Design-Studio/1d-final-project-summer-2024-sds-2024-team-13) | 🤖 GCP + Google Gemini + ReactJS + RubyOnRails + BDD/TDD | 🤝 With DBS & Google
+
+#### 2. Hoverfly (Part 1)  
+Part 1: Smart Baggage Scale using 3D camera and load sensors.   
+💡 [Link](https://github.com/hunchongtan/Hoverfly_SUTD) | 🤖 Arduino + Intel® RealSense™ | 🤝 With Scoot
+
+---
+
+### 👁️ Computer Vision
+#### 1. SpeakEase  
+AI assistant for public speaking that detects poor body posture using computer vision.  
+💡 [Link](https://github.com/jingkai27/jingkai27/blob/main/more-readme/SPEAKEASE-README.md) | 🤖 Computer Vision | 🏆 NAISC 2022 Winner + MIT 15K Challenge 2023 1st Runner-Up
+
+#### 2. Stretch925  
+Gamified app that uses pose estimation to encourage healthy stretching habits at work.     
+💡 [Link](https://github.com/zayne-siew/Stretch925) | 🤖 Computer Vision | 🧪 Undertaking of LifeHack 2023
+
+---
+
+### 📊 Data Science
+#### 1. Pneumonia Detection  
+Chest X-ray image classification using DenseNet121 CNN model.  
+💡 [Link](https://github.com/hunchongtan/PneumoniaDetection) | 🤖 PyTorch + CNN
+
+#### 2. Agri-Tech EDA & ML Pipeline  
+Full pipeline including exploratory data analysis and supervised learning for real agri-tech client data.  
+💡 [Link](https://github.com/hunchongtan/agri-tech-EDA-and-ML-pipeline) | 🤖 EDA + Regression Models + Classification Models
+
+---
+
+### ⚛️ LLM
+#### 1. Portential 
+LLM-based HR tool that matches staff to learning paths based on skill gaps.  
+💡 [Link](https://github.com/rappleit/Portential) | 🤖 LLM + NLP | 🏆 PSA Code Sprint 2023 Top 15 Finalist
+
+#### 2. Hoverfly (Part 2)  
+Part 2: AI Workflow that web scrapes and analyses airline data to identify design opportunities.
+💡 [Link](https://github.com/hunchongtan/Hoverfly_SUTD) | 🤖 LLM (RAG) + Web Scraping + Sentiment Analysis
+
+#### 3. Bloom  
+LLM-powered journaling tool for emotional support and reflection, built with Human Computer Interaction principles.  
+💡 [Link](https://github.com/hunchongtan/bloom-app) | 🤖 LLM + Human Computer Interaction | 🎓 60.005 HCI & AI
+
+---
+
+### 🩺 Health-Tech
+#### 1. DermaCare  
+AI dermatology assistant to support General Practitioners in diagnosis.  
+💡 [Link](https://github.com/rappleit/dermacare) | 🤖 LLM + Vector Search | 🧪 Undertaking of NUS HealthHack 2025
+
+#### 2. MediLingo  
+AI translator that simplifies complex medical terms for non-English speakers.  
+💡 [Link](https://github.com/rappleit/MediLingo) | 🤖 LLM + 3D Visualisation | 🧪 Undertaking of NUS HealthHack 2024
+
+#### 3. Ah Boy  
+Chatbot assistant for elderly Singaporeans, with dialect speech-to-text support.  
+💡 [Link](https://github.com/chaaaaun/wth-23) | 🤖 Speech-to-text (Hokkien) | 🧪 Undertaking of What The Hack 2023
+
+---
+
+### 🔧 Hardware
+#### 1. Simple Arduino Switchbot  
+DIY IoT bot that automates physical button presses using ESP32 and Firebase.  
+💡 [Link](https://github.com/hunchongtan/Simple_Arduino_SwitchBot) | 🤖 Arduino + Firebase + Switches | 🎓 60.003 Product Design Studio
+
+#### 2. Aqua Guardians  
+Environmental IoT solution to detect unlawful water pollution in rural areas.  
+💡 [Link](https://github.com/xpxchxcx/AquaGuardian) | 🤖 Arduino + Firebase + Environmental Sensors | 🧪 Undertaking of Google Solution Challenge 2023
+
+---
+
+### 🌈 Others
+#### 1. Hive  
+SwiftUI community app that connects users with shared interests.  
+💡 [Link](https://github.com/hunchongtan/hive) | 🤖 SwiftUI | 🎓 SUTD-SP SwiftUI Nano Academy
+
+#### 2. My To Do List  
+Simple To-Do List app designed to support memory for dementia patients.  
+💡 [Link](https://github.com/hunchongtan/MyToDoList) | 🤖 Python (Intro) | 🎓 10.014 Computational Thinking for Design
